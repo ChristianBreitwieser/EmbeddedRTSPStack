@@ -1,0 +1,3 @@
+[submodule "tools/LwipApiMock"]
+	path = tools/LwipApiMock
+	url = https://github.com/ChristianBreitwieser/LwipApiMock.git
